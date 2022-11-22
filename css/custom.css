@@ -617,9 +617,8 @@ footer {
     }
     footer .footer-row {
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr;
-        gap: 15px;
-        padding: 100px 0 60px 0;
+        grid-template-columns: 1fr 1fr;
+        padding: 50px 0 0 0;
         margin: 0 15px;
     }
         footer .footer-row p {
