@@ -23,9 +23,10 @@
 
 /* PARAGRAPHS */
 p {
-    font-size: 18px;
+    font-size: 20px;
     line-height: 30px;
     font-weight: 400;
+    max-width: 560px;
 }
 
 
@@ -190,10 +191,10 @@ footer,
     animation: 1s ease 1 normal slideFromBottom;
 }
 .hero .hero-right > img {
-    animation: 1.5s ease 1 normal slideFromRight;
+    animation: 2s ease 1 normal slideFromRight;
 }
 .container.feature {
-    animation: 1.5s ease 1 normal slideFromLeft;
+    animation: 2s ease 1 normal slideFromLeft;
 }
 @keyframes slideFromBottom {
     0% {
