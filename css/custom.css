@@ -343,8 +343,8 @@ HEADER DROPMENU
     }
     .faq > .row > .faq-box {
         display: inline-block;
-        width: 66%;
-        margin: 0 17%;
+        width: 90%;
+        margin: 0 5%;
     }
         .faq > .row > .faq-box > .qa {
                 margin: 0 15px;
