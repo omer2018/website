@@ -5,24 +5,24 @@ const homeAboutData = {
         icon: 'fas fa-layer-group fa-lg',
         color: 'F55767',
         bg_color: 'FFF5F6',
-        title: 'Quick Access',
-        text: 'Lorem ipsum dolor si met, an dusino si sinconstituto mir set gil amilu.',
+        title: 'Full Service',
+        text: 'We write the emails and automate everything for you',
         active: true
     },
     {
         icon: 'fas fa-chart-line fa-lg',
         color: '2595D4',
         bg_color: 'F1FAFF',
-        title: 'Great Support',
-        text: 'Lorem ipsum dolor si met, an dusino si sinconstituto mir set gil amilu.',
+        title: 'Growth Driver',
+        text: 'Personalized Calls to Action Perform 202% Better',
         active: true
     },
     {
         icon: 'fab fa-buromobelexperte fa-lg',
         color: 'A55CEF',
         bg_color: 'FFF5F6',
-        title: 'Quick Access',
-        text: 'Lorem ipsum dolor si met, an dusino si sinconstituto mir set gil amilu.',
+        title: 'Increase Conversions',
+        text: 'Segnificantly improve the quality of your outreach',
         active: true
     },
     {
