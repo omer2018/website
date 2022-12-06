@@ -28,7 +28,7 @@ const featureData = {
     {
         icon: "fas fa-cloud fa-2x ",
         title: 'Full Compatibility',
-        description: 'Integrates with any CRM you are currently using',
+        description: 'Integrates with almost any CRM you are currently using',
         active: true,
         background: 'EAF9FF' ,
         color: '45B1E1'
