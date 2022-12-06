@@ -16,7 +16,7 @@ const faqData = {
         },
         {
             question: 'How could personalized media improve customer communication?',
-            answer: 'Customers respond better to information when it’s tailored specifically to them. To visualize the benefits of a product to a prospective customer, sales teams typically conduct a live demo. Those must be booked in advance, cause friction on the part of the prospect and can be expensive to fulfill. This is where media generation comes in. Jet Cube creates a short but impactful demo instantly, tailored to the specific prospect based on information collected on the prospect on the spot or in advance',
+            answer: 'Customers respond better to information when it’s tailored specifically to them. To visualize the benefits of a product to a prospective customer, sales teams typically conduct a live demo. Those must be booked in advance, cause friction on the part of the prospect and can be expensive to fulfill. This is where media generation comes in. Jet Cube creates a short but impactful demo instantly, tailored to the specific prospect based on information collected on the prospect, on the spot or in advance',
             category: 'gen',
             active: true,
             homePage: true
