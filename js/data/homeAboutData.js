@@ -22,7 +22,7 @@ const homeAboutData = {
         color: 'A55CEF',
         bg_color: 'FFF5F6',
         title: 'Be Independent not Dependant',
-        text: 'We\'ll provide detailed documentation and in person explanations on how each automation works',
+        text: 'We\'ll provide detailed documentation and in person explanations on each automation',
         active: true
     },
     {

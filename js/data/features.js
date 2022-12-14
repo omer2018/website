@@ -3,7 +3,7 @@ const featureData = {
     features: [
     {
         icon: "fas fa-copyright fa-2x",
-        title: 'Tailor-Made',
+        title: 'Tailored Service',
         description: 'We’ll work with you to build customized automations that work exactly how YOU want them to',
         active: true,
         background: 'FFF6D3' ,
@@ -12,23 +12,23 @@ const featureData = {
     {
         icon: "fas fa-photo-video fa-2x",
         title: 'Don\'t be in the Dark',
-        description: 'Get a full walk through and documentation of every automation implemented',
+        description: 'Get a full walkthrough and documentation of every automation implemented',
         active: true,
         background: 'F1EBFE',
         color: '794ADE'
     }, 
     {
         icon: "fas fa-brain fa-2x",
-        title: 'Smart Outreach',
-        description: 'Show prospects how your marketing message applies specifically to them',
+        title: 'Work Smart',
+        description: 'We implement automations for any task in your business— from onboarding customers to team workflows',
         active: true,
         background: 'E4FFEE',
         color: '40975F'
     },
     {
         icon: "fas fa-cloud fa-2x ",
-        title: 'Full Compatibility',
-        description: 'Integrates with almost any CRM you are currently using',
+        title: '360° Approach',
+        description: 'Our team has experience with almost every kind of automation software out there',
         active: true,
         background: 'EAF9FF' ,
         color: '45B1E1'
@@ -36,8 +36,8 @@ const featureData = {
     },
     {
         icon: "fas fa-cogs fa-2x",
-        title: 'Optimization',
-        description: 'Upsell current customers with tailored media, showcasing premium features',
+        title: 'Iterate & Optimize',
+        description: 'Automations need to be constantly refined & updated. We stick around to review and monitor each one',
         active: true,
         background: 'FFECEF' ,
         color: 'FF4361'
