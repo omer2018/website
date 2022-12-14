@@ -5,24 +5,24 @@ const homeAboutData = {
         icon: 'fas fa-layer-group fa-lg',
         color: 'F55767',
         bg_color: 'FFF5F6',
-        title: 'Smart Lead Nurturing',
-        text: 'Personalize your lead nurturing efforts with customer specific product demonstrations at scale',
+        title: 'Opportunity Cost',
+        text: 'The automations that are costing you the most are the ones you didn’t know about',
         active: true
     },
     {
         icon: 'fas fa-chart-line fa-lg',
         color: '2595D4',
         bg_color: 'F1FAFF',
-        title: 'A Powerful Growth Driver',
-        text: 'Personalized Calls to Action Perform 202% Better, according to a HubSpot study',
+        title: 'Business Oriented',
+        text: 'We take the time to get to know you and your business',
         active: true
     },
     {
         icon: 'fab fa-buromobelexperte fa-lg',
         color: 'A55CEF',
         bg_color: 'FFF5F6',
-        title: 'Skyrocket your Conversions',
-        text: 'Automated Video Marketing is the FASTEST way to convert leads and drive sales',
+        title: 'Be Independent not Dependant',
+        text: 'We\'ll provide detailed documentation and in person explanations on how each automation works',
         active: true
     },
     {

@@ -3,16 +3,16 @@ const featureData = {
     features: [
     {
         icon: "fas fa-copyright fa-2x",
-        title: 'Branding ',
-        description: 'Get a media generation model customized to your brand personality',
+        title: 'Tailor-Made',
+        description: 'We’ll work with you to build customized automations that work exactly how YOU want them to',
         active: true,
         background: 'FFF6D3' ,
         color: 'D6AC02'
     },
     {
         icon: "fas fa-photo-video fa-2x",
-        title: 'Visualization',
-        description: 'Generated media that visualizes your service',
+        title: 'Don\'t be in the Dark',
+        description: 'Get a full walk through and documentation of every automation implemented',
         active: true,
         background: 'F1EBFE',
         color: '794ADE'
