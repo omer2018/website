@@ -8,29 +8,29 @@ const faqData = {
     icon: 'fas fa-angle-down',
     faq: [
         {
-            question: 'More specifically, what kind of media is generated?',
-            answer: 'There are many different types of campaigns, the right one usually depends on how your current sales pipeline looks like and how it’s intended to evolve in the future. Our campaigns include: emails with embedded product demo images, landing pages that feature generated images or video, emails featuring links to generated video demos, and more recently- generated PDF documents that serve as lead magnets',
+            question: 'What kind of automations will I be getting?',
+            answer: 'At Jet Cube Automation we have the knowledge and experience to provide our clients with the ideal solution. We are experts in Zapier, Airtable, and Make automations, as well as many others. With our help, your automations will work for you in the most effective way possible',
             category: 'gen',
             active: true,
             homePage: true
         },
         {
-            question: 'How could personalized media improve customer communication?',
-            answer: 'Customers respond better to information when it’s tailored specifically to them. To visualize the benefits of a product to a prospective customer, sales teams typically conduct a live demo. Those must be booked in advance, cause friction on the part of the prospect and can be expensive to fulfill. This is where media generation comes in. Jet Cube creates a short but impactful demo instantly, tailored to the specific prospect based on information collected on the prospect, on the spot or in advance',
+            question: 'Who is Jet Cube Automation Services for?',
+            answer: 'If you\'re looking for the perfect way to automate tasks in your business, look no further than Jet Cube Automation. Our goal is for our clients to get the most out of their automations by working with experts, who have a deep understanding of their niche, and can provide automations that our clients didn’t even know they desperately needed',
             category: 'gen',
             active: true,
             homePage: true
         },
         {
-            question: 'How can I understand whether my business needs personalized media creation?',
-            answer: 'Schedule a free consultation call so we could understand together whether personalized media creation can be applied to your business to deliver a significant ROI',
+            question: 'Working with different freelances can be frustrating and inconsistent. How will working with Jet Cube be different?',
+            answer: 'It doesn\'t have to be this way. With Automation as a Subscription Service, we\'ll take care of all of your automation needs so that you can focus on growing your business instead of constantly being pulled in every direction. We take the time to learn about you and your business and stick around to see through every automation we create for you',
             category: 'gen',
             active: true,
             homePage: true
         },
         {
-            question: 'What’s needed to launch my personalized media generation campaign?',
-            answer: 'During the onboarding process, our team will gain a better understanding of the current state of your sales pipeline. After which, we will craft your media generation campaign for you- a process that usually requires no more than two 40-minute meetings on your behalf, over the course of 14 days',
+            question: 'How would the Jet Cube Automation Subscription Service create reliability and consistency in my business?',
+            answer: 'With us by your side, you can get rid of the boring, repetitive, time-consuming tasks that are threatening to take over your life. Instead of working with a random online contractor that doesn’t know you, your business or your niche, work with a dedicated team of experts that knows the ins & outs of your business to provide you with the automations you desperately need. These automations will walk hand in hand with almost every workflow you currently have in your business and would reliably help create high quality outputs',
             category: 'gen',
             active: true,
             homePage: false

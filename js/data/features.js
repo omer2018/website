@@ -11,7 +11,7 @@ const featureData = {
     },
     {
         icon: "fas fa-photo-video fa-2x",
-        title: 'Don\'t be in the Dark',
+        title: 'Don\'t be in the dark',
         description: 'Get a full walkthrough and documentation of every automation implemented',
         active: true,
         background: 'F1EBFE',
@@ -45,7 +45,7 @@ const featureData = {
     {
         icon: "fas fa-headset fa-2x",
         title: 'Full Support',
-        description: 'Our service includes writing email copy, media creation and automation',
+        description: 'We work with you in every step of the way to connect the human side of your business to the technology side of it',
         active: true,
         background: 'EAF9FF' ,
         color: '54B5E2'
