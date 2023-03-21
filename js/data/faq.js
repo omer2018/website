@@ -8,29 +8,36 @@ const faqData = {
     icon: 'fas fa-angle-down',
     faq: [
         {
-            question: 'What kind of automations will I be getting?',
-            answer: 'At Jet Cube Automation we have the knowledge and experience to provide our clients with the ideal solution. We are experts in Zapier, Airtable, and Make automations, as well as many others. With our help, your automations will work for you in the most effective way possible',
+            question: 'What is an AI chatbot?',
+            answer: 'An AI chatbot is an artificial intelligence program that is designed to simulate conversation with human users. Our chatbots are programmed to understand natural language and can help businesses automate customer communication and lead generation',
             category: 'gen',
             active: true,
             homePage: true
         },
         {
-            question: 'Who is Jet Cube Automation Services for?',
-            answer: 'If you\'re looking for the perfect way to automate tasks in your business, look no further than Jet Cube Automation. Our goal is for our clients to get the most out of their automations by working with experts, who have a deep understanding of their niche, and can provide automations that our clients didn’t even know they desperately needed',
+            question: 'How does an AI chatbot work?',
+            answer: 'Our AI chatbots are powered by machine learning algorithms that analyze customer data and use natural language processing to simulate conversation with users. They can be programmed to answer questions, provide product information, nurture leads, book apoitments, and even qualify your leads for you',
             category: 'gen',
             active: true,
             homePage: true
         },
         {
-            question: 'Working with different freelances can be frustrating and inconsistent. How will working with Jet Cube be different?',
-            answer: 'It doesn\'t have to be this way. With Automation as a Subscription Service, we\'ll take care of all of your automation needs so that you can focus on growing your business instead of constantly being pulled in every direction. We take the time to learn about you and your business and stick around to see through every automation we create for you',
+            question: 'How can an AI chatbot benefit my business?',
+            answer: 'Our AI chatbots can help businesses save time and resources by automating routine tasks and providing personalized customer experiences. They can also improve customer satisfaction and loyalty by providing 24/7 support and anticipating customer needs',
             category: 'gen',
             active: true,
             homePage: true
         },
         {
-            question: 'How would the Jet Cube Automation Subscription Service create reliability and consistency in my business?',
-            answer: 'With us by your side, you can get rid of the boring, repetitive, time-consuming tasks that are threatening to take over your life. Instead of working with a random online contractor that doesn’t know you, your business or your niche, work with a dedicated team of experts that knows the ins & outs of your business to provide you with the automations you desperately need. These automations will walk hand in hand with almost every workflow you currently have in your business and would reliably help create high quality outputs',
+            question: 'Can I customize my AI chatbot?',
+            answer: 'Yes! Our chatbots are highly customizable and can be tailored to exactly match the nature of how you are currently communicating with customers and leads. You can work with our team to create a chatbot that\'s uniquely tailored to your business needs through a structured and proven process',
+            category: 'gen',
+            active: true,
+            homePage: false
+        },
+        {
+            question: 'Can I integrate my AI chatbot with other platforms?',
+            answer: 'Yes! Our chatbots can be integrated with a variety of different platforms, including social media, messaging apps, and email. This means that you can communicate with your customers wherever they are',
             category: 'gen',
             active: true,
             homePage: false
